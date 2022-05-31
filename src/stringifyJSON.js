@@ -81,7 +81,5 @@ var stringifyJSON = function(obj) {
   }
 
 
-  console.log(output);
-
   return output;
 };
